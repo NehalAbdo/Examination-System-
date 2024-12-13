@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\Exam02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\Exam02.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\Exam02.AssemblyInfo.cs
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\Exam02.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Exam02\bin\Debug\net6.0\Exam02.exe
+C:\Users\asus\source\repos\Exam02\bin\Debug\net6.0\Exam02.deps.json
+C:\Users\asus\source\repos\Exam02\bin\Debug\net6.0\Exam02.runtimeconfig.json
+C:\Users\asus\source\repos\Exam02\bin\Debug\net6.0\Exam02.dll
+C:\Users\asus\source\repos\Exam02\bin\Debug\net6.0\Exam02.pdb
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\Exam02.dll
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\refint\Exam02.dll
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\Exam02.pdb
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\Exam02.genruntimeconfig.cache
+C:\Users\asus\source\repos\Exam02\obj\Debug\net6.0\ref\Exam02.dll
